@@ -1,12 +1,14 @@
 # Site settings
-title: Gratitide Journal Blog
-SEOTitle: Gratitide Journal Blog
-header-img: img/home-bg.jpg
+title: Discover & Learn
+SEOTitle: Gratitide Journal - Discover & Learn
+header-img: img/bg_homepage-1-2.png
 email: noreply@gratitudejournal.ai
 description: "Gratitide Journal Site Description"
-keyword: "Gratitide Journal, AI"
+keyword: "Gratitide Journal, AI, Discover & Learn, Gratitude"
 url: "https://blog.gratitudejournal.ai" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+appurl: "https://gratitudejournal.ai" # your host, for absolute URL
+appname: "Gratitide Journal" # your host, for absolute URL
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -24,7 +26,7 @@ RSS: false
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude:
   [
     "less",
@@ -70,17 +72,17 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+ga_track_id: "G-9W8RBK349X" # Format: UA-xxxxxx-xx
+ga_domain: blog.gratitudejournal.ai
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+# sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 0 # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"

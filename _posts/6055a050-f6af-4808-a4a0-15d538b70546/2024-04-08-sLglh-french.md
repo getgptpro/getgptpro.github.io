@@ -2,7 +2,6 @@
 layout: post
 title: "La gratitude dans le monde de la lutte : Leçons tirées du parcours de Drew McIntyre vers le sommet"
 author: "Équipe de rédaction GJ"
-header-style: text
 catalog: true
 tags: []
 ---

@@ -23,9 +23,12 @@
       if (opts.size) {
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
+      console.log('weighting', weighting)
       if (opts.color) {
         // change color to background-color
-        $(this).css({"backgroundColor": tagColor(opts.color, colorIncr, weighting)});
+        var color = tagColor(opts.color, colorIncr, weighting)
+        $(this).css({"borderColor": color});
+        $(this).css({"color": color});
       }
     });
   };
