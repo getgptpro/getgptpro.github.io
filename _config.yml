@@ -1,14 +1,14 @@
 # Site settings
 title: Discover & Learn
-SEOTitle: Gratitide Journal - Discover & Learn
+SEOTitle: Gratitude Journal - Discover & Learn
 header-img: img/bg_homepage-1-2.png
 email: noreply@gratitudejournal.ai
-description: "Gratitide Journal Site Description"
-keyword: "Gratitide Journal, AI, Discover & Learn, Gratitude"
+description: "Gratitude Journal Site Description"
+keyword: "Gratitude Journal, AI, Discover & Learn, Gratitude"
 url: "https://blog.gratitudejournal.ai" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 appurl: "https://gratitudejournal.ai" # your host, for absolute URL
-appname: "Gratitide Journal" # your host, for absolute URL
+appname: "Gratitude Journal" # your host, for absolute URL
 
 # Publish posts or collection documents with a future date.
 future: true
