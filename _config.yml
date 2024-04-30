@@ -1,14 +1,14 @@
 # Site settings
-title: Discover & Learn
-SEOTitle: Gratitude Journal - Discover & Learn
+title: "Discover & Learn | Gratitude Journal AI: Unlock Daily Happiness | Start Your Mindful Journey"
+SEOTitle: "Gratitude Journal AI: Unlock Daily Happiness | Start Your Mindful Journey"
 header-img: img/bg_homepage-1-2.png
 email: noreply@gratitudejournal.ai
-description: "Gratitude Journal Site Description"
-keyword: "Gratitude Journal, AI, Discover & Learn, Gratitude"
+description: "Discover Gratitude Journal AI, your partner in mindfulness. Embrace the power of gratitude with AI-driven insights and begin your journey to daily happiness and improved mental wellness."
+keyword: "gratitude journal with prompts , gratitude journal prompts , prompts for gratitude journal , gratitude journal questions , gratitude journals with prompts , practise gratitude , practice gratitude , practice gratefulness , practicing gratitude , gratitude exercises , gratitude exercise , exercise gratitude , grateful exercise , thankfulness exercises , gratitude daily , daily gratitude , daily gratitudes , gratitude journal sample , gratitude journal templates , gratitude journal format , gratitude journal template , exercise in gratitude , exercises in gratitude , gratitude practice , gratefulness exercise , gratefulness exercises , daily journal gratitude , daily gratitude journal , gratitude daily journal , gratitude activities , activities on gratitude , gratitude activity , activities for gratitude , thankfulness activities , practice gratitude daily , practicing daily gratitude , gratitude moment , gratitude moments , moment of gratitude , practicing gratitude daily , practicing gratefulness , gratefulness practice , daily gratitude exercise , gratitude prompts , gratitude prompt , gratitude calendar"
 url: "https://blog.gratitudejournal.ai" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 appurl: "https://gratitudejournal.ai" # your host, for absolute URL
-appname: "Gratitude Journal" # your host, for absolute URL
+appname: "Gratitude Journal"
 
 # Publish posts or collection documents with a future date.
 future: true
