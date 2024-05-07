@@ -63,11 +63,10 @@ kramdown:
       start_line: 1
 
 aboutme: false
+comments: false
 # Disqus settings
 disqus_username: false
-
-# Netease settings
-netease_comment: false
+# solar-pluto-blog
 
 # Analytics settings
 # Baidu Analytics
@@ -78,7 +77,7 @@ ga_track_id: "G-19KJX86EY6" # Format: UA-xxxxxx-xx
 ga_domain: blog.gratitudejournal.ai
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
+sidebar: false # whether or not using Sidebar.
 # sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 

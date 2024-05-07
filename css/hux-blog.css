@@ -1,3 +1,8 @@
+/*!
+ * Hux Blog v1.8.2 (http://huxpro.github.io)
+ * Copyright 2024 Hux <huxpro@gmail.com>
+ */
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -1004,6 +1009,7 @@ samp {
   padding: 0 20px;
   height: 80px;
   line-height: 80px;
+  font-weight: bold;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus {
@@ -1557,47 +1563,6 @@ img::-moz-selection {
 @media only screen and (min-width: 768px) {
   #tag-heading {
     padding: 55px 0;
-  }
-}
-#tag_cloud {
-  margin: 20px 0 15px 0;
-}
-#tag_cloud a,
-#tag_cloud .tag {
-  transition-property: all;
-  transition-duration: 0.4s;
-  transition-timing-function: ease;
-  font-size: 14px;
-  border: none;
-  line-height: 28px;
-  margin: 0 2px;
-  margin-bottom: 8px;
-  color: #bfbfbf;
-  border: 1px solid #bfbfbf;
-  background-color: #fff !important;
-}
-#tag_cloud a:hover,
-#tag_cloud .tag:hover,
-#tag_cloud a:active,
-#tag_cloud .tag:active,
-#tag_cloud a.focus,
-#tag_cloud .tag.focus {
-  color: #404040 !important;
-  border: 1px solid #404040 !important;
-}
-#tag_cloud a.focus,
-#tag_cloud .tag.focus {
-  box-shadow: rgba(0, 0, 0, 0.1) 0 1px 8px, rgba(0, 0, 0, 0.2) 0 1px 8px;
-}
-#tag_cloud a.tag-button--all,
-#tag_cloud .tag.tag-button--all {
-  font-weight: 600;
-  color: #404040 !important;
-  border: 1px solid #404040 !important;
-}
-@media only screen and (min-width: 768px) {
-  #tag_cloud {
-    margin-bottom: 25px;
   }
 }
 .tag-comments {
