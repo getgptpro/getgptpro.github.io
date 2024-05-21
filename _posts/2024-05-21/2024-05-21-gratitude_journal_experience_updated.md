@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How I Overcame Depression Through 170,000 Words of Gratitude Journaling
