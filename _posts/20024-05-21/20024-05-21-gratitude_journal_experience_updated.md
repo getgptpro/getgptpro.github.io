@@ -5,7 +5,9 @@ title: How I Overcame Depression Through 170,000 Words of Gratitude Journaling
 author: Alex Parker
 header-style: text
 catalog: false
+permalink: /overcoming-depression-gratitude-journaling
 description: "Discover how keeping a gratitude journal helped me overcome depression through consistent journaling over five years."
+keywords: gratitude journal, overcoming depression, mental health, well-being, personal experience
 date: 2024-05-21 10:00:00 +0200
 ---
 
